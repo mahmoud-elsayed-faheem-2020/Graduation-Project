@@ -14,7 +14,6 @@ Consists of a raspberry pi 3 model b and a camera using opencv and python to rec
 
 ### The third part is the mobile app 
 It's an app on his phone, he can talk to the app and ask about the date, time, weather, ask to play music or when he's in an emergency he can call anyone in his phone's memory by saying for example "Call ali"
-"
 
 
 

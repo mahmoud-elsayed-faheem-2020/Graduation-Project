@@ -1,5 +1,5 @@
 # Bat Guidance System
-##the project cosist of three part 
+## the project cosist of three part 
 
 ### the first part is stick
 it help him when he walking it have four sensor inside it 

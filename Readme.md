@@ -2,11 +2,11 @@
 ## the project cosist of three part 
 
 ### The first part is the stick
-It helps him when walking with four sensor inside it 
-1-ultrasonic sensor to protect him from hitting anybody  
-2-water sensor to protect him from any water on the ground 
-3-flame sensor to protect him from any fire
-4-infra-red sensor to protect him from any hole or going down the stairs
+It helps him when walking with four sensor inside it                                   
+1-ultrasonic sensor to protect him from hitting anybody          
+2-water sensor to protect him from any water on the ground                         
+3-flame sensor to protect him from any fire                                                        
+4-infra-red sensor to protect him from any hole or going down the stairs                                    
 and recording message out to speaker tell him the type of error  
 
 ### The second part is the hat
